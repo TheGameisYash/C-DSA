@@ -1,0 +1,9 @@
+ // s.push(2);
+    // s.push(3);
+    // s.push(120);
+    // s.push(15);
+    // s.push(20);
+    // s.push(45);
+    // s.push(49);
+    // s.push(99);
+    // s.push(10);
