@@ -1,1 +1,2 @@
-ent Found at index: " << target
+
+    while(i<size && arr[i]<= target){
